@@ -1,0 +1,1 @@
+Hi, I am Arunima Sharma from Section 1 of Paul Longston's class, and I'm lovin it! I am about to commit this change to Git, woohoo!
